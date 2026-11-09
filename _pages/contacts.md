@@ -13,7 +13,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 ## 📬 Contact Details
 
 - 📧 **Barua Pepe:** [DENIS NDEMWA](mailto:kyalodenis@gmail.com)
-- ☎️ **WhatsApp:** (https://wa.me/qr/JBY2AT7IUT7BO1)
+- ☎️ **WhatsApp:** [D4RKTR4C3](https://wa.me/qr/JBY2AT7IUT7BO1)
 - 💼 **LinkedIn:** [Denis Ndemwa](https://www.linkedin.com/in/denisndemwa)
 - 🐙 **GitHub:** [D4RKTR4C3](https://github.com/denisndemwa)
 - ✖️ **X / Twitter:** [DenisNdemwa](https://x.com/DenisNdemwa)
