@@ -20,6 +20,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 - <img src="https://cdn.simpleicons.org/github/181717" width="16" height="16" alt="GitHub" /> **[GitHub](https://github.com/denisndemwa)**
 - <img src="https://cdn.simpleicons.org/x/000000" width="16" height="16" alt="X" /> **[X / Twitter](https://x.com/DenisNdemwa)**
 - <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16" alt="Instagram" /> **[Instagram](https://instagram.com/ndemwah)**
+  
 ---
 
 > ⚡ *Let’s connect and build something impactful together!*
