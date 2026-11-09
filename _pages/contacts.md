@@ -1,4 +1,3 @@
-<img width="572" height="1016" alt="image" src="https://github.com/user-attachments/assets/43db974b-c028-4010-a350-e8216aea6100" />---
 layout: single
 title: "📞 Contact"
 permalink: /contact/
