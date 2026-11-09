@@ -19,7 +19,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 - 💼 **[LinkedIn](https://www.linkedin.com/in/denisndemwa)**
 - 🐙 **[GitHub](https://github.com/denisndemwa)**
 - ✖️ **[X / Twitter](https://x.com/DenisNdemwa)**
-- <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16" alt="Instagram" /> **[ndemwah] (https://instagram.com/ndemwah)**
+- <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16" alt="Instagram" /> **[Instagram] (https://instagram.com/ndemwah)**
 ---
 
 > ⚡ *Let’s connect and build something impactful together!*
