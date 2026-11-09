@@ -16,7 +16,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 - 📧 **Barua Pepe:** [kyalodenis@gmail.com](mailto:kyalodenis@gmail.com)
 - ☎️ **Phone:** [+254 710 425 528](tel:+254710425528)
 - 💼 **LinkedIn:** [Denis Ndemwa](https://www.linkedin.com/in/denisndemwa/)
-- 🐙 **GitHub:** [D4RKTR4C3}(https://github.com/denisndemwa)
+- 🐙 **GitHub:** [D4RKTR4C3](https://github.com/denisndemwa)
 - ✖️ **X / Twitter:** [@DenisNdemwa](https://x.com/DenisNdemwa)
 - 📷 **Instagram:** [@ndemwah](https://instagram.com/ndemwah)
 
