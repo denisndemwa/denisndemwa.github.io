@@ -1,4 +1,4 @@
----
+<img width="572" height="1016" alt="image" src="https://github.com/user-attachments/assets/43db974b-c028-4010-a350-e8216aea6100" />---
 layout: single
 title: "📞 Contact"
 permalink: /contact/
@@ -14,7 +14,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 ## 📬 Contact Details
 
 - 📧 **Barua Pepe:** [DENIS NDEMWA](mailto:kyalodenis@gmail.com)
-- ☎️ **WhatsApp:** (WhatsApp)
+- ☎️ **WhatsApp:** [WhatsApp] (https://wa.me/qr/JBY2AT7IUT7BO1)
 - 💼 **LinkedIn:** [Denis Ndemwa](https://www.linkedin.com/in/denisndemwa/)
 - 🐙 **GitHub:** [D4RKTR4C3](https://github.com/denisndemwa)
 - ✖️ **X / Twitter:** [DenisNdemwa](https://x.com/DenisNdemwa)
