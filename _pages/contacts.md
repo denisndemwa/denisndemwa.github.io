@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "📞 Contact"
+title: "📞 Get in Touch"
 permalink: /contact/
 author_profile: true
 ---
 
 
-# 📞 Get in Touch
 I’m always open to professional connections, collaborations, and new opportunities!  
 ---
 > Feel free to reach out through any of the following channels:
