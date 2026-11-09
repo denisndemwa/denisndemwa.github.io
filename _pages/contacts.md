@@ -15,7 +15,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 
 ## 📬 Contact Details
 
-
+<p align="left"> 
 - ## <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" /> **[Barua Pepe](mailto:kyalodenis@gmail.com)**
 
 - ## <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="20" height="20" alt="WhatsApp" /> **[WhatsApp](https://wa.me/qr/JBY2AT7IUT7BO1)**
@@ -27,7 +27,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 - ## <img src="https://cdn.simpleicons.org/x/000000" width="20" height="20" alt="X" /> **[X / Twitter](https://x.com/DenisNdemwa)**
   
 - ## <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram" /> **[Instagram](https://instagram.com/ndemwah)**
-  
+  </p>
 ---
 
 > ⚡ *Let’s connect and build something impactful together!*
