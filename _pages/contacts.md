@@ -17,8 +17,8 @@ I’m always open to professional connections, collaborations, and new opportuni
 - ☎️ **Phone:** [+254 710 425 528](tel:+254710425528)
 - 💼 **LinkedIn:** [Denis Ndemwa](https://www.linkedin.com/in/denisndemwa/)
 - 🐙 **GitHub:** [D4RKTR4C3](https://github.com/denisndemwa)
-- ✖️ **X / Twitter:** [@DenisNdemwa](https://x.com/DenisNdemwa)
-- 📷 **Instagram:** [@ndemwah](https://instagram.com/ndemwah)
+- ✖️ **X / Twitter:** [DenisNdemwa](https://x.com/DenisNdemwa)
+- 📷 **Instagram:** [ndemwah](https://instagram.com/ndemwah)
 
 ---
 
