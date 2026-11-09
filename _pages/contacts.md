@@ -1,8 +1,17 @@
 layout: single
+title: ""
+permalink: /contact/
+author_profile: true
+---
+
+
+---
+layout: single
 title: "📞 Contact"
 permalink: /contact/
 author_profile: true
 ---
+
 
 # 📞 Get in Touch
 I’m always open to professional connections, collaborations, and new opportunities!  
