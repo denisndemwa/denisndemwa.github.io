@@ -1,10 +1,3 @@
-layout: single
-title: ""
-permalink: /contact/
-author_profile: true
----
-
-
 ---
 layout: single
 title: "📞 Contact"
