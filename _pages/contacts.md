@@ -21,7 +21,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 - ## <a href="https://www.linkedin.com/in/your-profile" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" lt="LinkedIn" /> </a> **[LinkedIn](https://www.linkedin.com/in/denisndemwa)**
 - ## <img src="https://cdn.simpleicons.org/github/181717" width="20" height="20" alt="GitHub" /> **[GitHub](https://github.com/denisndemwa) ** &nbsp;&nbsp;&nbsp;&nbsp;
 - ## <img src="https://cdn.simpleicons.org/x/000000" width="20" height="20" alt="X" /> **[X / Twitter](https://x.com/DenisNdemwa)** &nbsp;&nbsp;&nbsp;&nbsp;
- ## <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram" /> **[Instagram](https://instagram.com/ndemwah)**
+ ## <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram" /> [Instagram](https://instagram.com/ndemwah)
 </p>
 ---
 
