@@ -18,10 +18,10 @@ I’m always open to professional connections, collaborations, and new opportuni
 <p align="center">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" /> <b><a href="mailto:kyalodenis@gmail.com">Barua Pepe</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="20" height="20" alt="WhatsApp" /> <b><a href="https://wa.me/qr/JBY2AT7IUT7BO1">WhatsApp</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" alt="Link
-  <img src="https://cdn.simpleicons.org/github/181717" width="20" height="20" alt="GitHub" /> <b><a href="https://github.com/denisndemwa" target="_blank">GitHub</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/x/000000" width="20" height="20" alt="X" /> <b><a href="https://x.com/DenisNdemwa" target="_blank">X / Twitter</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram" /> <b><a href="https://instagram.com/ndemwah" target="_blank">Instagram</a></b>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" alt="LinkedIn" /> <b><a href="https://www.linkedin.com/in/denisndemwa">LinkedIn</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="20" height="20" alt="GitHub" /> <b><a href="https://github.com/denisndemwa">GitHub</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/x/000000" width="20" height="20" alt="X" /> <b><a href="https://x.com/DenisNdemwa">X / Twitter</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram" /> <b><a href="https://instagram.com/ndemwah">Instagram</a></b>
 </p>
 
 ---
