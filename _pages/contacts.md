@@ -25,8 +25,9 @@ I’m always open to professional connections, collaborations, and new opportuni
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram" /> <b><a href="https://instagram.com/ndemwah" target="_blank">Instagram</a></b>
 
 </p>
+
 ---
 
-## > ⚡ *Let’s connect and build something impactful together!*
+## ⚡ *Let’s connect and build something impactful together!*
 
 ---
