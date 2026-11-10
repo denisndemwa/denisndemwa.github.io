@@ -15,7 +15,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 
 ## 📬 Contact Details
 
-<p align="left">
+<p align="centre">
   
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" /> <b><a href="mailto:kyalodenis@gmail.com" target="_blank">Barua Pepe</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="20" height="20" alt="WhatsApp" /> <b><a href="https://wa.me/qr/JBY2AT7IUT7BO1" target="_blank">WhatsApp</a></b> &nbsp;&nbsp;&nbsp;&nbsp;
