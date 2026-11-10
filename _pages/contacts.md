@@ -28,6 +28,6 @@ I’m always open to professional connections, collaborations, and new opportuni
 
 ---
 
-## ⚡ *Let’s connect and build something impactful together!*
+## ⚡ ***Let’s connect and build something impactful together!***
 
 ---
