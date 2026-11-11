@@ -5,8 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-
----
 I’m always open to professional connections, collaborations, and new opportunities!  
 ---
 
